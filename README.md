@@ -83,12 +83,15 @@ Python is an interpreted, cross-paradigm, cross-platform programming language. I
        Then write a function that prints this board. 
 
     Player's move :
-       Write a function called ‘player_move’ that takes 3 parameters: x, y, player and put a ‘X’ or a ‘O’ (depending on the parameter player) at x,y int        the array. This function should return 0 if the move is possible, otherwise, 1. 
+       Write a function called ‘player_move’ that takes 3 parameters: x, y, player and put a ‘X’ or a ‘O’ (depending on the parameter player) at x,y 
+       int the array. This function should return 0 if the move is possible, otherwise, 1. 
 
     Game loop :
-       Write an infinite loop and read the input (the player must write the coordinates of his move) of the players then call your function player_move          with the given coordinates.
- 
+       Write an infinite loop and read the input (the player must write the coordinates of his move) of the players 
+       then call your function player_move with the given coordinates.
+    
     Win or lose :
-      write a function that return 1 if the player X won, 2 if the player O won, 3 it is a tie and 0 if the game is not over yet. After each move, check       if the game is over, if it is, you should print something to inform the players that the game is over and who is the winner. 
+      write a function that return 1 if the player X won, 2 if the player O won, 3 it is a tie and 0 if the game is not over yet.
+      After each move, check if the game is over, if it is, you should print something to inform the players that the game is over and who is the winner. 
     
    
