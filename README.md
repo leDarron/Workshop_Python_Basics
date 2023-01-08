@@ -31,3 +31,19 @@ Python is an interpreted, cross-paradigm, cross-platform programming language. I
    
      Try to get your tupple's values and print them.
    ##     
+   
+   ## Task 03 -list :
+      Just as tuples, lists are used to store multiple items in a single variable, but it allow you to add and remove items. 
+      To add or remove items of your list, use the function append() and remove().
+      Try to get your list and print them.
+      
+   ![Cover](https://github.com/leDarron/Workshop_Python_Basics/blob/main/images/task03.png)
+   ##
+   
+   ## Task 04 -Dictionaries :
+     A dictionary is a collection of key-value pairs, it allows you to bind a value to a key. 
+     Here is the syntax: 
+   ![Cover](https://github.com/leDarron/Workshop_Python_Basics/blob/main/images/task04.png)
+   
+     
+      
