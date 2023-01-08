@@ -1,1 +1,1 @@
-# Workshop_Python_Basics
+# Workshop: The basics of python 
